@@ -8,7 +8,6 @@
 
 ---
 
-
 ## Prep work
 
 1. Create a new public GitHub Gist (https://gist.github.com/new)
